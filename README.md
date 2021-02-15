@@ -3,7 +3,6 @@ This repo contains the solution of c problem that present in HackerRank
 # HackerRank
 This repo contains the solution of c problem that present in HackerRank
 
-[* Hello World](https://www.hackerrank.com/challenges/hello-world-c/problem "Hello World")
 
 
 | NO           | Challenge                                                                     | Solution |
