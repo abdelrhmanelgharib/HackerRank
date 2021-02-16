@@ -32,12 +32,3 @@ int NTH_Term(int n, int a, int b, int c)
 
     return NTH_Term(n-1, a, b, c) + NTH_Term(n-2, a, b, c); 
 }
-
-
-
-/**
- *  4,1,2,3 + 3,1,2,3
- *  2       + 1
- *  1         0
- * 
- * **/
