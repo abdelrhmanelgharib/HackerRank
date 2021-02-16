@@ -18,6 +18,5 @@ int main ()
     printf("%d %d\n%.1f %.1f", Num_one+Num_Two, Num_one-Num_Two, Num_Three+Num_Four, Num_Three-Num_Four);
 
 
-
     return 0;
 }
