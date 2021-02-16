@@ -1,3 +1,9 @@
+  
+/*
+ *  Author: El-Gharib
+ *  Created on: 16/2/2021
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

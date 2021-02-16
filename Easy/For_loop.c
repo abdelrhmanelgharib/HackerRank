@@ -38,8 +38,6 @@ int main()
         printf("%s\n",(FirstElement <= Nine) ? Number[FirstElement-1] : (FirstElement %2) ? "odd": "even");
         FirstElement++;
     }
-    
-
 
     return 0;
 }
