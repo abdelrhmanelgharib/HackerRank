@@ -1,3 +1,9 @@
+/*
+ *  Author: El-Gharib
+ *  Created On: 4/3/2021
+ *  Version: 1
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
