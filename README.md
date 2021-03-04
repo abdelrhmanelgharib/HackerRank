@@ -1,8 +1,8 @@
 # HackerRank
-This repo contains the solution of c problems that present in HackerRank
+This repo contains the solution of c problems And ProblemSolving that present in HackerRank
 
 
-
+C Problems
 | NO           | Challenge                                                                                                                                              | Solution      |
 |  :---:       |     :---:                                                                                                                                              |    :---:      |
 | 1            |[ Hello World](https://www.hackerrank.com/challenges/hello-world-c/problem)                                                                             | [Hello_World.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Easy/Hello_World.c)      |
@@ -24,3 +24,15 @@ This repo contains the solution of c problems that present in HackerRank
 |17            |[Digit Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)                                                            |[DynamicArray.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/DynamicArray.c)                     |
 |18            |[Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem)                                                        |[VariadicFunc.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/VariadicFunc.c)                     |
 |19            |[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)                                       |[SmallLarge_Triangle.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/SmallLarge_Triangle.c)       |
+
+
+
+
+
+
+ProblemSolving
+
+| NO           | Challenge                                                                                                                                                  |  Solution                                                                                                       |
+|  :---:       |     :---:                                                                                                                                                  |    :---:                                                                                                         |
+| 1            |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                                                              | [SolveMeFirst.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/ProblemSolving/SolveMeFirst.c)      |
+| 2            |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)                                                                          |[SimpleArraySum.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/ProblemSolving/SimpleArraySum.c) |
