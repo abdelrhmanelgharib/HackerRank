@@ -43,4 +43,3 @@ ProblemSolving
 | 7            |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                                                |[BirthdayCandles.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/ProblemSolving/BirthdayCandles.c)      |
 | 8            |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                                                            |[TimeConversion.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/ProblemSolving/TimeConversion.c) |
 | 9            |[Grading Students](https://www.hackerrank.com/challenges/grading)                                                                                          |[GradingStudent.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/6cc795700941be19f610b01c6abbdb67d9d090bd/ProblemSolving/GradingStudent.c) |
-|
