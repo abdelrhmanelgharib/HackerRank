@@ -24,7 +24,7 @@ C Problems
 |17            |[Digit Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)                                                            |[DynamicArray.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/DynamicArray.c)                     |
 |18            |[Variadic functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem)                                                        |[VariadicFunc.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/VariadicFunc.c)                     |
 |19            |[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)                                       |[SmallLarge_Triangle.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/SmallLarge_Triangle.c)       |
-|20            |[Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)                                                        |PermutationsofStrings.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/PermutationsofStrings.c)       |
+|20            |[Permutations of Strings](https://www.hackerrank.com/challenges/permutations-of-strings/problem)                                                        |[PermutationsofStrings.c](https://github.com/abdelrhmanelgharib/HackerRank/blob/main/C%20Language/Medium/PermutationsofStrings.c)    |
 
 
 
